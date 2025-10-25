@@ -37,11 +37,6 @@ NixUsers/
 │   ├── elixir/       # Código Elixir (mix, módulos, etc.)
 │   └── bash/         # Scripts auxiliares, não executáveis diretamente
 │
-├── lib/              # Funções/bibliotecas reutilizáveis
-│   ├── bash/         # Funções de shell reutilizáveis (ex: logging.sh)
-│   ├── sql/          # Procedures, funções SQL
-│   └── elixir/       # Módulos extras
-│
 ├── database/         # Queries SQL principais
 │   ├── migrations/   # Scripts de migração de banco
 │   ├── reports/      # Consultas de relatórios
